@@ -1,36 +1,48 @@
-<div>
+<div align="center">
 
-<h1>💫 About Me</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Omar%20Beshir&fontSize=40&fontColor=ffffff" />
 
-<h2>👋 Hi, I'm Omar Beshir</h2>
+<h1>Hi 👋, I'm Omar Beshir</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=25&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Kubernetes+Enthusiast;CI%2FCD+Builder;Always+Learning+New+Tech" />
+
+</div>
+
+---
+
+<h2>💫 About Me</h2>
 
 <p>
-I'm a Cloud & DevOps Engineer passionate about building scalable, reliable, and automated infrastructure.
+Cloud & DevOps Engineer passionate about building scalable, reliable, and automated infrastructure.
 </p>
 
 <p>
-I have hands-on experience working with containerization, Kubernetes, and cloud platforms, where I design and deploy real-world applications using modern DevOps practices.
+I work with modern DevOps tools to design, deploy, and optimize real-world cloud applications.
 </p>
+
+---
 
 <h2>🚀 What I Do</h2>
 
 <ul>
 <li>Deploy and manage applications on Kubernetes clusters</li>
-<li>Build CI/CD pipelines for automation and faster delivery</li>
-<li>Work with Docker to containerize applications</li>
-<li>Design cloud infrastructure (AWS-focused)</li>
-<li>Troubleshoot and optimize system performance</li>
+<li>Build CI/CD pipelines for automation</li>
+<li>Containerize applications using Docker</li>
+<li>Design scalable AWS cloud infrastructure</li>
+<li>Monitor and optimize system performance</li>
 </ul>
+
+---
 
 <h2>🛠️ Tech Stack</h2>
 
-<ul>
-<li><b>Cloud:</b> AWS and Huawei</li>
-<li><b>Containerization:</b> Docker</li>
-<li><b>Orchestration:</b> Kubernetes</li>
-<li><b>Tools:</b> Linux, GitHub Actions, Jenkins, GitLab CI, Prometheus, Grafana, Helm, ArgoCD</li>
-<li><b>Languages:</b> Bash and Python</li>
-</ul>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,gitlab,linux,python,bash,terraform,grafana,prometheus" />
+
+</div>
+
+---
 
 <h2>📌 Current Focus</h2>
 
@@ -40,41 +52,70 @@ I have hands-on experience working with containerization, Kubernetes, and cloud 
 <li>Advanced DevOps practices</li>
 </ul>
 
+---
+
 <h2>🎯 Goal</h2>
 
 <p>
-To become a professional DevOps Engineer and build production-ready cloud systems that scale efficiently.
+Become a professional DevOps Engineer building scalable, production-ready systems.
 </p>
 
-<hr>
+---
 
-<p><i>💡 Always learning, building, and improving.</i></p>
+<h2>🌐 Connect With Me</h2>
 
-<h1>🌐 Socials</h1>
+<div align="center">
 
-<p>
-<a href="https://facebook.com/omar.beshir.215602">Facebook</a> |
-<a href="https://instagram.com/omarreda16.9">Instagram</a> |
-<a href="https://linkedin.com/in/omar-beshir-132317257">LinkedIn</a> |
-<a href="mailto:omarreda011284@gmail.com">Email</a>
-</p>
+<a href="https://facebook.com/omar.beshir.215602">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-<h1>💻 Tech Stack</h1>
+<a href="https://instagram.com/omarreda16.9">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<p>
-(سيب البادجز زي ما هي عندك بدون تعديل)
-</p>
+<a href="https://linkedin.com/in/omar-beshir-132317257">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h1>📊 GitHub Stats</h1>
-
-<p>
-(سيب الصور بتاعة الستاتس زي ما هي)
-</p>
-
-<h1>🔝 Top Contributed Repo</h1>
-
-<p>
-(سيبها زي ما هي)
-</p>
+<a href="mailto:omarreda011284@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OMAR-BESHIR&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=OMAR-BESHIR&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMAR-BESHIR&layout=compact&theme=tokyonight" height="180"/>
+
+</div>
+
+---
+
+<h2>🔥 Top Repositories</h2>
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=OMAR-BESHIR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=OMAR-BESHIR&color=blue&style=for-the-badge"/>
+
+<p><b>💡 Always learning, building, and improving.</b></p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
